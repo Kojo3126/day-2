@@ -1,0 +1,38 @@
+html{
+	font-family: Courier New;
+	font-size:20px;
+
+}
+.middle{
+	max-width:600px;
+	margin-top:5px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top: 100;
+}
+
+p{
+	line-height: :30px;
+}
+
+.gary {
+	font-size:30px;
+	background-color:lightpink;
+}
+
+button {
+	font-size:32px;
+	border-radius:15px;
+	box-shadow:10px 10px 30px black;
+	position: fixed;
+	top:150px;
+}
+.garrycome{
+	background-color:teal;
+}
+.GB{
+	background-color: lightpink;
+}
+.sad{
+	
+}
